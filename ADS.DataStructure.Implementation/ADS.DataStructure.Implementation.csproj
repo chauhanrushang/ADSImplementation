@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Arrays\" />
+    <Folder Include="Graph\" />
+    <Folder Include="Hashing\" />
     <Folder Include="Heap\" />
     <Folder Include="LinkedLists\" />
     <Folder Include="Queues\" />
