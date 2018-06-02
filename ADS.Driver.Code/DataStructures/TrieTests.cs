@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using ADS.DataStructure.Implementation.Trie;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ADS.Driver.Code
+namespace ADS.Driver.Code.DataStructures
 {
     [TestClass]
     public class TrieTests
