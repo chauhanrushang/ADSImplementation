@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADS.Algorithms.Implementati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADS.DataStructure.Implementation", "ADS.DataStructure.Implementation\ADS.DataStructure.Implementation.csproj", "{19557523-AA8C-46BD-9365-37CAF5ED4C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADS.Driver.Code", "ADS.Driver.Code\ADS.Driver.Code.csproj", "{8041D99B-66A5-4A6A-97B7-9978CFF9B1EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADS.Driver.Code", "ADS.Driver.Code\ADS.Driver.Code.csproj", "{E90CC221-146B-4D0A-BBF5-590278600965}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{19557523-AA8C-46BD-9365-37CAF5ED4C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19557523-AA8C-46BD-9365-37CAF5ED4C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19557523-AA8C-46BD-9365-37CAF5ED4C58}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8041D99B-66A5-4A6A-97B7-9978CFF9B1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8041D99B-66A5-4A6A-97B7-9978CFF9B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8041D99B-66A5-4A6A-97B7-9978CFF9B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8041D99B-66A5-4A6A-97B7-9978CFF9B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90CC221-146B-4D0A-BBF5-590278600965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90CC221-146B-4D0A-BBF5-590278600965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90CC221-146B-4D0A-BBF5-590278600965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90CC221-146B-4D0A-BBF5-590278600965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
